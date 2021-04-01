@@ -35,8 +35,7 @@
 ### ツール
 - Git/Github
 - SourceTree
-- Bitrise
-- Jenkins
+- Firebase
 - esa
 - wrike
 - Slack
@@ -46,6 +45,8 @@
 - Rider
 - Unity Editor
 - Xcode
+- Bitrise
+- Jenkins
 
 ### その他スキル
 
