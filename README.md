@@ -2,7 +2,7 @@
 
 ## 概要
 
-エンジニアとして11年の実務経験があります。2021/04/01現在 36歳男性。  
+エンジニアとして11年の実務経験があります。  
 モバイルアプリエンジニアとしてAndroidを中心に、iOS/Unityアプリ開発を経験していました。  
 直近ではVRアプリでのUnity開発で、Live機能開発統合のアウトゲーム部分のエンジニアリーダーとしてチームの開発管理と共に実装業務も行っていました。  
 それ以前ではマッチングアプリwith-Android版のサブリーダーとして、全体的なアーキテクチャ刷新とKotlin化を行っていました。
@@ -52,6 +52,10 @@
 ## 言語
 
 - 日本語
+
+## 年齢
+
+- 2021/04/01現在 36歳男性
 
 ## 強み
 
@@ -111,3 +115,9 @@
 - [2018/07 Kotlin愛好会](https://speakerdeck.com/paraya3636/j2kkonbatawokasutamaizusuru)
 - [2018/07 potatotips](https://speakerdeck.com/paraya3636/j2kkonbatawokasutamaizusuru-ver-5min)
 - [Kotlin Fest 2018](https://speakerdeck.com/paraya3636/j2k-failure-story-unit)
+
+## 趣味
+
+- 自転車
+  - サイクリングを2019/12から始めました。
+  - 自転車競技参加を目指しています。
