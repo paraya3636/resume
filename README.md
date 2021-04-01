@@ -35,15 +35,17 @@
 ### ツール
 - Git/Github
 - SourceTree
-- Slack
-- Android Studio
-- Rider
 - Bitrise
 - Jenkins
 - esa
 - wrike
-- Xcode
+- Slack
+- Sketch
+- AdobeXD
+- Android Studio
+- Rider
 - Unity Editor
+- Xcode
 
 ### その他スキル
 
