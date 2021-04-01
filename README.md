@@ -32,6 +32,19 @@
 - Unity(1年半)
 - iOS(4年)
 
+### ツール
+- Git/Github
+- SourceTree
+- Slack
+- Android Studio
+- Rider
+- Bitrise
+- Jenkins
+- esa
+- wrike
+- Xcode
+- Unity Editor
+
 ### その他スキル
 
 - マテリアルデザイン(発表当時に一通り原文で学んでいます)
